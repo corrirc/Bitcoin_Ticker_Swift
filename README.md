@@ -1,3 +1,4 @@
 # BitcoinTicker
 
-Built as part of a Tutorial with the [The App Brewery]
+Built as code along Tutorial with the [The App Brewery]
+
